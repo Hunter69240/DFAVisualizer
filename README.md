@@ -1,7 +1,7 @@
 ﻿# 🧠 DFA Visualizer – Python + Graph Animation
 
 A command-line Python application that allows you to define a **Deterministic Finite Automaton (DFA)** and **visually animate the transition steps** over a given input string using a generated GIF.
-
+.
 ---
 
 ## ✨ Features
@@ -117,3 +117,4 @@ python dfa_visualizer.py
 ## Collaborators:
 https://github.com/NikSterPrime
 https://github.com/anoopckulkarni
+
